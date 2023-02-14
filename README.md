@@ -1,4 +1,4 @@
-### Hey, I'm Brandon Cloutier 🐘
+### Hey, I go by Dino 🐘
 
 <a href= https://www.linkedin.com/in/brandoncloutier1 > <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
