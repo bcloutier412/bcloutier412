@@ -17,4 +17,3 @@ My name is Brandon Cloutier, I am studying Computer Science at CSUF class of 202
 ## 📈 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=bcloutier412&theme=tokyonight&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcloutier412&theme=tokyonight&layout=compact&langs_count=5">
