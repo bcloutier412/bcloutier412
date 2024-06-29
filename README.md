@@ -2,7 +2,7 @@
 
 <a href= https://www.linkedin.com/in/brandoncloutier1 > <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 
-My name is Brandon Cloutier, I am studying Computer Science at CSUF.
+My name is Brandon Cloutier. I am studying Computer Science at CSUF, specializing in Full-Stack Web Development.
 ## 💻 Technical Languages
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></span>
 <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></span>
